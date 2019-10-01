@@ -17,6 +17,7 @@ a {
 a:focus, a:active, a:hover {
     outline: 0;
     text-decoration: none;
+    color: $COLOR-BLUE;
 }
 .btn.focus, .btn:focus {
     outline: none;
